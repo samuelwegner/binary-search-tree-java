@@ -15,7 +15,7 @@ have logarithmic time complexity. For an unbalanced tree, these operations have
 linear time complexity in the worst case.
 
 This data structure is useful for storing a list of sorted elements and
-maintaining sorted order when in adding or removing elements. Unlike
+maintaining sorted order when adding or removing elements. Unlike
 array-based data structures, the BST can efficiently insert or remove elements
 from any position in the list. The major disadvantage is that adding elements
 in pre-sorted order will result in worst-case performance until the balance()
